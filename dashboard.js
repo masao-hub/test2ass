@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             const response = await fetch(url, {
                 headers: {
-                    'X-Api-Key': 'YOUR_API_NINJAS_KEY', // REPLACE THIS
+                    'X-Api-Key': 'SfCBqFk0H9H7lJnzHrL8Q9wqHwGK34GCwH1CdyKd', // REPLACE THIS
                     'Content-Type': 'application/json'
                 }
             });
